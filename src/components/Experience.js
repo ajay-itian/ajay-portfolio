@@ -6,6 +6,9 @@ const Experience = () => {
     <section id="experince" className="experince">
       <div className="card">
         <h2 className="experince-title">Experience</h2>
+        <i>Jr Software Developer | Machbizz Marketers Pvt Ltd Pune, Maharashtra </i>
+        <br></br>
+        <i>Jun 2022 – May 2023</i>
         <p className="experince-text">
        <ul>
       <li> Designed and developed responsive web pages using HTML5, CSS, JavaScript, jQuery, and Bootstrap, significantly enhancing user interfaces and experiences.</li>

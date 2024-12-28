@@ -28,7 +28,9 @@
     box-shadow: 0 8px 40px rgba(0, 0, 0, 0.3); /* Increase shadow on hover */
     animation: curtainOpen 0.5s forwards; /* Apply curtain open animation on hover */
 }
-
+i{
+    color: white;
+}
 .experince-text
 {
     font-size: 15px;
