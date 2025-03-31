@@ -6,7 +6,7 @@ import { FaGoogleDrive } from 'react-icons/fa';
 import './CSS/hero.css';
 
 const Hero = () => {
-  const resumeLink = "https://drive.google.com/file/d/1TfgxEEV-CO515G2EelSHusW9PMbUpolc/view?usp=sharing"; // Replace YOUR_RESUME_ID with your actual Google Drive file ID
+  const resumeLink = "https://drive.google.com/file/d/1mv-gQAUmyFiIugDsSLsacTIlVpmz3QJC/view?usp=sharing"; // Replace YOUR_RESUME_ID with your actual Google Drive file ID
 
   return (
     <section id="hero" className="hero">
